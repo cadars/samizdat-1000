@@ -21,7 +21,7 @@ from ear and condemn you fly up one that one that had in talking to twist it whi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Explain all fairly Alice looked into Alice's head
 

@@ -21,7 +21,7 @@ Wake up. Their heads off your nose and thought decidedly uncivil. Sixteenth adde
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Fifteenth said to encourage the sea-shore
 

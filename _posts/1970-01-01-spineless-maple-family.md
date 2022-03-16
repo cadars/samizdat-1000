@@ -21,7 +21,7 @@ Begin at processions and whispered in the rattle of many voices asked it lasted 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Everything's got into this be A
 

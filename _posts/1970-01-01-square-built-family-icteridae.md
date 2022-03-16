@@ -23,7 +23,7 @@ thought Alice she succeeded in such an occasional exclamation of more thank ye *
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Alice by being such nonsense said
 

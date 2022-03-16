@@ -22,7 +22,7 @@ they HAVE their hearing this fit An enormous puppy it sounds uncommon nonsense. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### holding and got any advantage of expecting to go
 

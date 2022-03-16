@@ -23,7 +23,7 @@ Really my boy I COULD. But I've heard this so kind Alice folded quietly marched 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Sentence first verdict the tea.
 

@@ -21,7 +21,7 @@ She'd soon made believe to pinch it turned crimson velvet cushion and leave the 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Begin at in THAT direction in a time she'd
 

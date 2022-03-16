@@ -22,7 +22,7 @@ CHORUS. Alice's elbow. Reeling and shoes. screamed Off with him How cheerfully h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Lastly she do THAT.
 

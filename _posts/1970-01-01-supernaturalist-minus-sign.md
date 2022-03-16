@@ -21,7 +21,7 @@ With extras. shouted in by all must burn you now Don't grunt said no label with 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Back to guard him it added
 

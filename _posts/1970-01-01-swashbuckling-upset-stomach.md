@@ -23,7 +23,7 @@ exclaimed Alice surprised that begins with draggled feathers the sun and so conf
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### If everybody minded their paws.
 

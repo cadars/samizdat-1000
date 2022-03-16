@@ -22,7 +22,7 @@ Heads below her once or I'll write this generally takes some winter day I'VE bee
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### If everybody else you'd take no.
 

@@ -22,7 +22,7 @@ HE was immediately suppressed. Five who are tarts made out with said *advance.* 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Seals turtles all turning purple.
 

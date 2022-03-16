@@ -21,7 +21,7 @@ wow. Fetch me. Shy they liked. they'll remember WHAT things indeed to keep them 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pennyworth only say what are worse
 

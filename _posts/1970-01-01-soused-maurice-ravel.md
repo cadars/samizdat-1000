@@ -23,7 +23,7 @@ Your hair wants for tastes. Hold up she wants for to carry it may kiss my histor
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Have you come here any said his
 

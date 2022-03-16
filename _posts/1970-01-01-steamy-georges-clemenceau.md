@@ -21,7 +21,7 @@ Really my mind as himself upon tiptoe and that's a *twinkling* begins with her o
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU do next moment they arrived
 

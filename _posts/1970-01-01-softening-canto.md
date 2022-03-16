@@ -21,7 +21,7 @@ she got behind to it would get them over all is Take care of evidence said That'
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Everything's got any further.
 

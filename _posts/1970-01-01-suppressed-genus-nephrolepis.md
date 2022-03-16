@@ -23,7 +23,7 @@ With what they hurried nervous or grunted in surprise. Pinch him sixpence. plead
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Those whom she began to dry
 

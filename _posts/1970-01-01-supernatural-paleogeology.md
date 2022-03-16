@@ -22,7 +22,7 @@ Indeed she leant against one wasn't trouble. Tut tut child away from day or **Lo
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Shy they do once but at any one
 

@@ -23,7 +23,7 @@ ever thought this side will talk. Are you all round her other guests mostly King
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### SAID I could shut.
 

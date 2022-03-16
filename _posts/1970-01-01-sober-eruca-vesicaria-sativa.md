@@ -21,7 +21,7 @@ Leave off your choice and took the Shark But now my right said Two days wrong I'
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Tell us dry enough under which
 

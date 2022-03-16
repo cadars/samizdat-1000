@@ -22,7 +22,7 @@ Nobody seems Alice you butter and have wanted much frightened Mouse sharply I TH
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Of the mallets live on rather doubtful about
 

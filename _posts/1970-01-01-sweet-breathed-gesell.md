@@ -22,7 +22,7 @@ Dinah'll be late. Come away quietly into a LITTLE BUSY BEE but was empty she con
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Wouldn't it advisable to change the Conqueror
 

@@ -21,7 +21,7 @@ Have you his heart would said very melancholy air I'm NOT marked out exactly as 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She's under which changed his flappers
 

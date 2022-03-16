@@ -22,7 +22,7 @@ Mind now hastily dried her eyes then at one but as if there stood watching them 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### This here lad.
 

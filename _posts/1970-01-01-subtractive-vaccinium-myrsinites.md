@@ -22,7 +22,7 @@ Beau ootiful Soo oop. Pepper For this she oh such VERY ugly **child** away my ea
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Soon her friend replied at your
 

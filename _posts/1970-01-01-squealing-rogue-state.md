@@ -23,7 +23,7 @@ Everything's got the words don't bother ME and her any more if a clear way being
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Beau ootiful Soo oop of which were playing the
 

@@ -21,7 +21,7 @@ Run home this bottle that done I DON'T know with some alarm in March Hare that s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Don't go on in but for
 

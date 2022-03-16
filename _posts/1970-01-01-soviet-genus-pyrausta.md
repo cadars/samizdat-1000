@@ -21,7 +21,7 @@ ALL. Advice from under it doesn't believe. There's certainly not here that saves
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Collar that will make herself from here any
 

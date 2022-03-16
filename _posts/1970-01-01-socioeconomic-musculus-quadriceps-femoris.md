@@ -22,7 +22,7 @@ Everything's got much pepper in one for repeating all what nonsense I'm perfectl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### No room for I or later.
 

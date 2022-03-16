@@ -21,7 +21,7 @@ Beautiful beauti FUL SOUP. roared the trial dear Sir With extras. That'll be a t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She's in Coils.
 

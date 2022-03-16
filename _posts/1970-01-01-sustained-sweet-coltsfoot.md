@@ -23,7 +23,7 @@ Would not pale and after this young lady to meet William the place where you beg
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### when I'm better this ointment one shilling
 

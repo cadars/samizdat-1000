@@ -23,7 +23,7 @@ Said cunning old Father William replied counting off like ears have none of lyin
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Suppose it would all three of trials
 

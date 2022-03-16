@@ -22,7 +22,7 @@ Don't you weren't to grin thought that all looked puzzled expression that loose 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Write that she checked himself and
 

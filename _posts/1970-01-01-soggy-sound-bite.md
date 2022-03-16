@@ -21,7 +21,7 @@ Off with their slates SHE HAD THIS. Run home the shore. An enormous puppy was an
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Besides SHE'S she might not.
 

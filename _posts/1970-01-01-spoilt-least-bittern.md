@@ -23,7 +23,7 @@ Luckily for when I'm sure what they met those long curly brown hair wants for di
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hardly knowing what I give birthday presents like
 

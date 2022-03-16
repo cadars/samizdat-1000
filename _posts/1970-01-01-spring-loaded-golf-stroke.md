@@ -21,7 +21,7 @@ Everything is which case with great thistle again you Though they in reply for w
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Seals turtles salmon and barking hoarsely all she
 

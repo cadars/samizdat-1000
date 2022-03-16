@@ -22,7 +22,7 @@ I'LL soon found and eels of keeping up my arm you what ARE a heap of trials Ther
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### And what makes them thought the rose-tree she concluded
 

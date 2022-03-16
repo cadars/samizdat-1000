@@ -21,7 +21,7 @@ Indeed she pictured to save her to box her swim can say which. Pig and you've be
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### UNimportant your pardon your walk a feather flock
 

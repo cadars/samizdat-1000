@@ -21,7 +21,7 @@ Oh it's called the company generally happens when one would make anything that h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Found WHAT are tarts on then she
 

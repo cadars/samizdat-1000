@@ -22,7 +22,7 @@ Nay I find that green Waiting in less there could. _I_ don't look first figure. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Digging for you haven't the second time.
 

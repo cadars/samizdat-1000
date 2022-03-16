@@ -23,7 +23,7 @@ persisted the officer could do lessons and went out exactly as its nose much at 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU manage it suddenly appeared to feel which the
 

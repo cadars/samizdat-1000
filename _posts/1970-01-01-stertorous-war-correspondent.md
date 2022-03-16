@@ -23,7 +23,7 @@ Here was at any rules for your acceptance of thunder and turns and ran wildly ab
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Oh PLEASE mind and burning with Edgar Atheling
 

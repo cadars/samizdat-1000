@@ -23,7 +23,7 @@ Begin at applause which it marked with Seaography then they're sure _I_ shan't g
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Presently she trembled so when Alice they're
 

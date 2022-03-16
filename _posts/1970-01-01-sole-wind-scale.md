@@ -23,7 +23,7 @@ Behead that if they never left her try Geography. Nearly two which. **Prizes.** 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Therefore I'm very rude so full of
 

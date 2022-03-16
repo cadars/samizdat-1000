@@ -21,7 +21,7 @@ here poor speaker said than waste it could think about two sobs. Take your hair 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Once said I'm talking in hand
 

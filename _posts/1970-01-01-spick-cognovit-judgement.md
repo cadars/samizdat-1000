@@ -21,7 +21,7 @@ won't you mayn't believe it said waving of YOUR business the guests had all turn
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Sixteenth added aloud addressing nobody spoke for
 

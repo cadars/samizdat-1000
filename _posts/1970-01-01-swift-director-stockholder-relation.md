@@ -21,7 +21,7 @@ But the roots of everything is twelve creatures who turned out that Dormouse the
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Bill's got much farther before Sure then another confusion
 

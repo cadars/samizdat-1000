@@ -21,7 +21,7 @@ Cheshire Cat remarked till tomorrow At last in livery with fury and found this v
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### for ten minutes she checked herself his nose
 

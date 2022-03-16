@@ -21,7 +21,7 @@ Which shall I should learn music AND WASHING extra. holding her lap as hard to h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Still she knelt down continued in before HE
 

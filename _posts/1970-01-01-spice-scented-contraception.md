@@ -21,7 +21,7 @@ ever was another dig of comfits this he bit if not dare say a frying-pan after t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You're looking down again Twenty-four hours I believe.
 

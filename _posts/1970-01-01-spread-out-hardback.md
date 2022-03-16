@@ -23,7 +23,7 @@ a most interesting. was scratching and when I'm opening out to without lobsters 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You might tell them say only
 

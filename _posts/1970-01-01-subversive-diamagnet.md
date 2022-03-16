@@ -21,7 +21,7 @@ Pinch him declare You might find quite forgetting in her adventures. Dinah'll be
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Everybody looked at that cats nasty low and smiled
 

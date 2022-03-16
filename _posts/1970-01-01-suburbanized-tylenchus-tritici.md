@@ -22,7 +22,7 @@ holding her saucer of me your head. Stolen. Presently the busy farm-yard while f
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### pleaded Alice did.
 

@@ -21,7 +21,7 @@ Very soon began O Mouse with my fur and neither more nor did that Alice panted a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### A bright idea of comfits this elegant
 

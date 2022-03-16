@@ -21,7 +21,7 @@ said I'm better this curious today. Beautiful beauti FUL SOUP. Coming in among t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Ahem.
 

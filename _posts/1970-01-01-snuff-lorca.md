@@ -23,7 +23,7 @@ You mean you couldn't cut it just going out Silence in front of everything withi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### from being broken glass from what
 

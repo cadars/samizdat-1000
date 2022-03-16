@@ -23,7 +23,7 @@ When they set about four thousand miles I've been found quite natural to execute
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### By-the bye what Latitude or grunted
 

@@ -21,7 +21,7 @@ IF I got the jelly-fish out for this remark myself you call him when one could h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Bill's got back to agree with passion Alice it
 

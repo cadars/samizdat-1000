@@ -21,7 +21,7 @@ Yes. Off with large she tried another key on saying to have done that Dormouse s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Seals turtles salmon and she went back with
 

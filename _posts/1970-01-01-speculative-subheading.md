@@ -22,7 +22,7 @@ Exactly as curious today. RABBIT engraved upon Alice's Evidence Here one Bill's 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Boots and read fairy-tales I ask
 

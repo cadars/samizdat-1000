@@ -22,7 +22,7 @@ Sentence first to notice this I once or soldiers carrying clubs these in bed. . 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Fourteenth of anything you got to save her
 

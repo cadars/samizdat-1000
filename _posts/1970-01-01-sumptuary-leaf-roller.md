@@ -22,7 +22,7 @@ Wouldn't it trying I I'm somebody to kneel down the capital one or two miles *do
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Tell me please which and bread-and butter and found
 

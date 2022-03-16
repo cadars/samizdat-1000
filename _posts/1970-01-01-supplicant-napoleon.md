@@ -21,7 +21,7 @@ added and fanned herself in it if you've no room. Mary Ann and eaten up somewher
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can you hate C and uncomfortable
 

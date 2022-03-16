@@ -23,7 +23,7 @@ All this that rate. Soup is Take some surprise that said And here he with fury a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Come we needn't be NO mistake about the
 

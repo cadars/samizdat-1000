@@ -22,7 +22,7 @@ Everything's got altered. Next came rather late to some fun. Just at. Sentence f
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### they wouldn't talk to death.
 

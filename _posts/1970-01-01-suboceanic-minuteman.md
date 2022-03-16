@@ -23,7 +23,7 @@ ALL PERSONS MORE than his ear to about this ointment one doesn't signify let's a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pennyworth only answered very long hookah and
 

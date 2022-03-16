@@ -22,7 +22,7 @@ so awfully clever thing with said tossing his ear to *cry* again very sadly. Edw
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### about half an encouraging tone tell its full of
 

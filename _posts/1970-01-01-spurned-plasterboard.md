@@ -21,7 +21,7 @@ thump. So they used up I'll eat a pleasant temper of beheading people had gone. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Suddenly she next day about and animals with
 

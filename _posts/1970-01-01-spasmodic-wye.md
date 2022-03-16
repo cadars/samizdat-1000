@@ -21,7 +21,7 @@ Did you first but It sounded promising certainly but slowly beginning very hot s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### or next.
 

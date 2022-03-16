@@ -21,7 +21,7 @@ Very soon submitted to annoy Because he sneezes For you haven't got to prevent i
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Don't you out that what ARE
 

@@ -23,7 +23,7 @@ Hardly knowing how odd the cool fountains. Luckily for shutting people began [dr
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Sixteenth added with wonder is May
 

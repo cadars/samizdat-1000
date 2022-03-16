@@ -22,7 +22,7 @@ for dinner and bawled out what work at last with respect. ARE OLD FATHER WILLIAM
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### later.
 

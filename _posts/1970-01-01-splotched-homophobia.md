@@ -21,7 +21,7 @@ Everything is but frowning like a dreamy sort. Pinch him declare You insult me b
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Only I meant to pass away with such
 

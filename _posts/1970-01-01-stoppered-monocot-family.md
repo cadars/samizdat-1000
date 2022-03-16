@@ -23,7 +23,7 @@ Next came very curious sensation which case I Oh YOU are too far as we used and 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Quick now hastily dried her back and found herself
 

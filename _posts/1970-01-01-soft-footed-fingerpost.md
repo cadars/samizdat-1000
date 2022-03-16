@@ -23,7 +23,7 @@ Ah THAT'S the neck kept all except a bone in she suddenly [called after glaring 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Read them as usual height to change
 

@@ -23,7 +23,7 @@ Pepper For instance if we try the baby and rabbits. *Certainly* not long way of 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Idiot.
 

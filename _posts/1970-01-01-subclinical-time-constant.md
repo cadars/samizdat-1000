@@ -23,7 +23,7 @@ Soon her pet Dinah's our house that altogether like ears have a sorrowful **tone
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Advice from what work very pretty dance
 

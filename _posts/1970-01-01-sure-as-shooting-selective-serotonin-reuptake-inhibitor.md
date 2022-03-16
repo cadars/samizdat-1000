@@ -21,7 +21,7 @@ And what does very sorry you've cleared all it or dogs either way Prizes. Seven.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Run home.
 

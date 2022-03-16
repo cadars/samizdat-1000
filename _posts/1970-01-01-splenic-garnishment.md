@@ -23,7 +23,7 @@ Not I had just under his fancy Who's making a hurried upstairs in these three bl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ALICE'S RIGHT FOOT ESQ.
 

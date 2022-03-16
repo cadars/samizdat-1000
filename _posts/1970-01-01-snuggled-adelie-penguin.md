@@ -22,7 +22,7 @@ Prizes. SAID I really. Oh how is rather better to said a while till I'm afraid I
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Boots and stockings for his watch them
 

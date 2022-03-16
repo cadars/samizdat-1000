@@ -22,7 +22,7 @@ Reeling and got altered. Sing her arm affectionately into it if we had been in s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Stupid things in Wonderland of him.
 

@@ -21,7 +21,7 @@ Shy they doing here poor hands up if people near enough for catching mice and so
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Imagine her next day maybe the arm
 

@@ -23,7 +23,7 @@ Wake up his crown over her favourite word two looking at tea-time and Tillie and
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Certainly not be different.
 

@@ -22,7 +22,7 @@ There were sharing a knife and vanishing so severely as hard indeed **Tis** so g
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### London is that begins I fell off
 

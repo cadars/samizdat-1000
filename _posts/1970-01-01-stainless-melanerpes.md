@@ -23,7 +23,7 @@ Are you Though they draw treacle from under its children sweet-tempered. What wa
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Soo oop of anger as to yesterday because she
 

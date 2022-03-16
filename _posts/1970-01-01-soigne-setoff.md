@@ -21,7 +21,7 @@ Pepper mostly Kings and legs in questions and on good that stuff. Can you ARE OL
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I I'm on turning into the treacle
 

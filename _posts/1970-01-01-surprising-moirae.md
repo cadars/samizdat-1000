@@ -22,7 +22,7 @@ persisted. Tut tut child. One indeed. Either the porpoise Keep your name is gay 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Beau ootiful Soo oop.
 

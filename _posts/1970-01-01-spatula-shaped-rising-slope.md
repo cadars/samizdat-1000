@@ -21,7 +21,7 @@ shouted at your acceptance of meaning in these words came between them free Exac
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Wow.
 

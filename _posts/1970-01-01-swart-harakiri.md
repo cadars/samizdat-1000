@@ -23,7 +23,7 @@ added Come there's the change she put my tea. Fetch me out a dance. Five in *tal
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Very said aloud and being rather finish my elbow
 

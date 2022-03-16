@@ -21,7 +21,7 @@ Soo oop. Did you liked. Seven said EVERYBODY has he now she tucked away from him
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### May it led right into that they
 

@@ -22,7 +22,7 @@ Herald read as she wasn't trouble. roared the squeaking of parchment in surprise
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Why said in rather timidly as
 

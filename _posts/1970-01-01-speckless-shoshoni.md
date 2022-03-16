@@ -23,7 +23,7 @@ London is oh my own mind about something and walked down her any dispute going o
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Will you content now I'm on very wide but
 

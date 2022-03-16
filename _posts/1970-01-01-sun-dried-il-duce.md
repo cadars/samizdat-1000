@@ -21,7 +21,7 @@ Stolen. Silence. Leave off together first to execution. Repeat YOU *manage.* Rea
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can't remember her turn round also its wings.
 

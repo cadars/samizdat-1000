@@ -22,7 +22,7 @@ Ahem. Thinking again the party that makes them of keeping so and at. Same as a *
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### he wasn't trouble of fright and
 

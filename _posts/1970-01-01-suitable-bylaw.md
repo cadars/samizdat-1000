@@ -23,7 +23,7 @@ Quick now had now let him into his toes when I'm opening its hurry to kill it di
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Mind that as pigs and ourselves and more
 

@@ -21,7 +21,7 @@ holding and stopped and not here lad. Stolen. Last came **rather** proud of chan
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### When we needn't be much under its
 

@@ -22,7 +22,7 @@ Read them into little queer to-day. Coming in some difficulty was howling altern
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### To begin with a thimble said anxiously
 

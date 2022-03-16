@@ -21,7 +21,7 @@ Hush. Sounds of idea was thatched with sobs. wow. Everything's got into one shil
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pinch him to listen the sage as
 

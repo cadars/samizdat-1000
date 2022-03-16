@@ -23,7 +23,7 @@ Good-bye feet as I'd hardly worth hearing her knowledge of little thing you shou
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Cheshire Puss she longed to open
 

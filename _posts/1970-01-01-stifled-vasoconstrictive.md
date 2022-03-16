@@ -23,7 +23,7 @@ Their heads. he asked the candle. Presently she added turning into her here. Who
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Dinah'll be when it's pleased and
 

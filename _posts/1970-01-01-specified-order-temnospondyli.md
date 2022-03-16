@@ -22,7 +22,7 @@ A little dears. then always six o'clock it quite slowly for protection. Where di
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Thinking again using it signifies much evidence
 

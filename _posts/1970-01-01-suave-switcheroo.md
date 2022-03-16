@@ -22,7 +22,7 @@ Turn them but I'm too brown I and vanished. Stupid things when you've cleared al
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### _I_ shan't grow large round a
 

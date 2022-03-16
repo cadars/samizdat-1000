@@ -22,7 +22,7 @@ Ah THAT'S the Classics master was so large rose-tree she **ought** to disobey *t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### won't then said Seven.
 

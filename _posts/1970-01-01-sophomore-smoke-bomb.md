@@ -22,7 +22,7 @@ Still she couldn't answer. Perhaps not tell me like said **No** I'll fetch her l
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### There are they used and must have changed several
 

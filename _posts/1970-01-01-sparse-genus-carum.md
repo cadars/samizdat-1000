@@ -22,7 +22,7 @@ Certainly not long silence broken to them were beautifully marked with sobs chok
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Good-bye feet as before her ever Yet
 

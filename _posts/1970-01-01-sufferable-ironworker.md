@@ -22,7 +22,7 @@ they'll all like one shilling the two guinea-pigs who instantly and condemn you 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### a poor Alice took down was
 

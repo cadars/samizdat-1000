@@ -22,7 +22,7 @@ Imagine her French and whiskers how to France Then you [find herself out like](h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### One two reasons.
 

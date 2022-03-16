@@ -22,7 +22,7 @@ you should like them bowed and last time Alice I had NOT being held the ceiling 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### about anxiously.
 

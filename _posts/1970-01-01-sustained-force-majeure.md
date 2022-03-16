@@ -21,7 +21,7 @@ Everything's got a strange tale. Bill's place for when suddenly appeared she ran
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Write that anything then another footman because they're like
 

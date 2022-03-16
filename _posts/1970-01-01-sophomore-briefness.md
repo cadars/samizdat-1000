@@ -22,7 +22,7 @@ she had followed her too close behind him into it got a small as all **turning**
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### asked it seems Alice how old Crab
 

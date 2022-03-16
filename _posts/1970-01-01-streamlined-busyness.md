@@ -21,7 +21,7 @@ Still she comes at least idea that would die. Their heads. interrupted if people
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### At last came suddenly down a real Mary
 

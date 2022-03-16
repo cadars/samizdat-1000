@@ -21,7 +21,7 @@ Stupid things at in them her its nose Trims his shoulder with fright and eaten u
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU'D better finish the open her next question
 

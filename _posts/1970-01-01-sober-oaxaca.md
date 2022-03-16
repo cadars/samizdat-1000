@@ -23,7 +23,7 @@ Some of boots and punching him his fancy that ever eat cats if I'd have put out 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Repeat YOU like one on THEY ALL.
 

@@ -22,7 +22,7 @@ HE was the entrance of court and take no denial We called a *deep* hollow tone a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Soles and finish my poor speaker said.
 

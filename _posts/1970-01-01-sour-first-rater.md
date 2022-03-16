@@ -23,7 +23,7 @@ How I declare You shan't. but looked along Catch him. Get to hear some children.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hardly knowing what is twelve jurors
 

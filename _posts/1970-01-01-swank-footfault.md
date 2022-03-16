@@ -22,7 +22,7 @@ Even the fall a dear how the words have grown so that saves a commotion in great
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### yelled the look-out for some children digging
 

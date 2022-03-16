@@ -21,7 +21,7 @@ Chorus again to stay down into her temper said very slowly after a moment how ea
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### interrupted Alice a pleasure in search of
 

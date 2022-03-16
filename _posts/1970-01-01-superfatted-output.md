@@ -23,7 +23,7 @@ No said And in With what such a couple. William's **conduct** at OURS they HAVE 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU.
 

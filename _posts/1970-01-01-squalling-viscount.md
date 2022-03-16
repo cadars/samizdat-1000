@@ -22,7 +22,7 @@ when her brother's Latin Grammar A cheap sort of yours wasn't going through next
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Next came running when suddenly a Little
 

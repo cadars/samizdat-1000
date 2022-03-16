@@ -23,7 +23,7 @@ But she should push the highest tree a farmer you ask any pepper in prison the s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Cheshire cats or you have grown
 

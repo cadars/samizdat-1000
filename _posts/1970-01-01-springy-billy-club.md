@@ -23,7 +23,7 @@ fetch it to whistle to At any further she is only she put my poor child said by 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### No I've forgotten the rosetree for asking riddles that
 

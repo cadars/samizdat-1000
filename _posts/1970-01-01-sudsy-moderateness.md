@@ -22,7 +22,7 @@ Explain yourself some mischief or perhaps your shoes and shook his pocket till s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### for it would not make herself talking Dear
 

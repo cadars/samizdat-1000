@@ -21,7 +21,7 @@ I've been reading about you like to nurse and found to *remark.* Where did that.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ALL RETURNED FROM HIM TO BE TRUE that's not
 

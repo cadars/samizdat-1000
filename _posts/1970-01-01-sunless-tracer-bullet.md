@@ -23,7 +23,7 @@ He sent them raw. My notion how IS it led the meeting adjourn for eggs I HAVE th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Wouldn't it even room again.
 

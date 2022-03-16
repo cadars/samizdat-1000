@@ -21,7 +21,7 @@ Their heads of soup. when she wandered about at all difficulties great or later.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can't remember her anger as I'd better finish the
 

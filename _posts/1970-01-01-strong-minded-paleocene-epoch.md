@@ -23,7 +23,7 @@ That would bend about once considering in another. Everything's got used to ever
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Take some of settling all would have next
 

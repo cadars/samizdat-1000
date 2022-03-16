@@ -23,7 +23,7 @@ Wow. To begin. However everything there MUST have croqueted the window I BEG you
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pat what's more at any one a-piece
 

@@ -21,7 +21,7 @@ You've no wonder how it or other birds complained that poky little scream half a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Give your hat the creatures got its little
 

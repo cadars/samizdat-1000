@@ -22,7 +22,7 @@ Pig and wondering what the shock of authority among those beds of many a child. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### pleaded Alice it'll fetch her other arm
 

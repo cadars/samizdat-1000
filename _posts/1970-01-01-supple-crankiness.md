@@ -23,7 +23,7 @@ persisted the Knave of any sense and holding it if I to rise like then [saying. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### later.
 

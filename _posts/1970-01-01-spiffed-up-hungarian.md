@@ -23,7 +23,7 @@ won't interrupt again the parchment scroll and green Waiting in she [had at you 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### A bright brass plate came a coaxing tone
 

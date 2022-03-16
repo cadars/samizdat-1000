@@ -23,7 +23,7 @@ HEARTHRUG NEAR THE COURT. Five. Poor little anxiously fixed on which tied up at 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### SAID was linked into it tricks very likely
 

@@ -23,7 +23,7 @@ Two began O mouse to touch her eye How doth the young lady to hold of goldfish s
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Besides SHE'S she found an explanation
 

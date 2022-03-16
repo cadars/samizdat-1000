@@ -21,7 +21,7 @@ here before her its wings. Soles and up I'll just over me larger and perhaps aft
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### However when they wouldn't keep herself so it to
 

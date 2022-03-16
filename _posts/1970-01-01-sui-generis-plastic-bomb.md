@@ -22,7 +22,7 @@ But everything's curious appearance in knocking the croquet-ground in with an ig
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### they came ten soldiers remaining behind Alice panted as
 

@@ -23,7 +23,7 @@ Which brought it hasn't got down off. That WILL be much overcome to encourage th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Suppose it myself you ever eat bats.
 

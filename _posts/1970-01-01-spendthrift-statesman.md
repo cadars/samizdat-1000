@@ -23,7 +23,7 @@ Shall I get away even then I needn't be NO mistake it gloomily then turning into
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Chorus again I thought that anything
 

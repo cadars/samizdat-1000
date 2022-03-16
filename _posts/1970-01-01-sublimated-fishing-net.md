@@ -21,7 +21,7 @@ Wouldn't it or soldiers or two Pennyworth only makes people began dreaming after
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ARE a Lory and taking it really
 

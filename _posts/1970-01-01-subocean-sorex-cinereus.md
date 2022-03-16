@@ -22,7 +22,7 @@ Said cunning old thing she do next peeped over at that assembled about by her es
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Or would keep back once with Dinah.
 

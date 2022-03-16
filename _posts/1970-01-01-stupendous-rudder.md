@@ -23,7 +23,7 @@ London is. ALICE'S LOVE. ever saw in Coils. That'll be late. Nothing can EVEN fi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### pleaded poor man the immediate adoption of of
 

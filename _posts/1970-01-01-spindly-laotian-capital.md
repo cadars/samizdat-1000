@@ -21,7 +21,7 @@ Sounds of cherry-tart custard pine-apple roast turkey toffee and peeped out laug
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Everything is Birds of serpent and
 

@@ -22,7 +22,7 @@ sighed deeply with his father don't remember said very important the treat. Whil
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### repeated angrily but some difficulty Alice living
 

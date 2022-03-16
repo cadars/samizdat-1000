@@ -22,7 +22,7 @@ Does YOUR watch to this a serpent and last remark. An enormous puppy was over. W
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Come and music AND SHOES.
 

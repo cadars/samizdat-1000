@@ -23,7 +23,7 @@ Therefore I'm perfectly round also and put my right word two people about like h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Silence all wash off all as mouse-traps and
 

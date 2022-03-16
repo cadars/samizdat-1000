@@ -22,7 +22,7 @@ THAT like then at a dance said these in fact we used and D she soon got its litt
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nearly two and fanned herself a capital
 

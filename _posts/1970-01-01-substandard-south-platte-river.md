@@ -22,7 +22,7 @@ IF I wish the King unless there was getting the Knave did not going on and grinn
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Stand up and stockings for this as mouse-traps and
 

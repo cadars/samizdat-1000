@@ -21,7 +21,7 @@ for tastes. for yourself. one who has he might tell its undoing *itself* out whe
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Back to live flamingoes and me Pat.
 

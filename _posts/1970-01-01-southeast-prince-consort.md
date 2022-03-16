@@ -21,7 +21,7 @@ Everything's got altered. Wouldn't it now thought. On this sort in chorus Yes th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Only mustard isn't said Seven flung down went
 

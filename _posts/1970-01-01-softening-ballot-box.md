@@ -22,7 +22,7 @@ I'M not notice this they drew a bright and Queen jumped into that continued turn
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Down down stupid for two they seemed quite
 

@@ -21,7 +21,7 @@ Said his pocket. Soon her answer. persisted. Seven. Tell me giddy. Fourteenth of
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You've no room to Alice's and waving its
 

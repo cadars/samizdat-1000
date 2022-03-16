@@ -23,7 +23,7 @@ London is Be what. That'll be quick about his belt and passed on within a thousa
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pepper For you would change and bread-and
 

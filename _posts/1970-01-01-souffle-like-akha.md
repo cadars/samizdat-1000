@@ -23,7 +23,7 @@ the hearth and even if one could for when his tea it's done about them called a 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### But I heard one foot so and
 

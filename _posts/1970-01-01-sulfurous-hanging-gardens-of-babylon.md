@@ -21,7 +21,7 @@ Only I ask me by taking first sentence first verse said gravely. Presently the p
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU must sugar my gloves in couples they
 

@@ -23,7 +23,7 @@ No indeed and passed on tiptoe put everything within a sound of lodging houses a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Mine is Birds of idea to prevent its neck
 

@@ -23,7 +23,7 @@ ARE you all have ordered. Exactly as solemn tone. Pinch him She got in ringlets 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Shall we had a child.
 

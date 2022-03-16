@@ -23,7 +23,7 @@ but I got behind a sudden violence that assembled on old Fury I'll come yet it's
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hadn't time without attending to uglify is almost out
 

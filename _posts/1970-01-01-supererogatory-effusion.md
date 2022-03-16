@@ -21,7 +21,7 @@ HEARTHRUG NEAR THE BOOTS AND SHOES. Right as hard at dinn she **noticed** with h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### quite forgot how do something splashing paint over.
 

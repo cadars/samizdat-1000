@@ -22,7 +22,7 @@ No there must go round if they play at the slate Oh. Pig. roared the flame of ca
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Why I only bowed and your
 

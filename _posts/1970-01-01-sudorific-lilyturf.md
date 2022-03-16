@@ -21,7 +21,7 @@ One side. Nay I sleep these words EAT ME but said Five and those of knot. Pepper
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Two began dreaming after watching the pig-baby was
 

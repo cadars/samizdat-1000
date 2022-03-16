@@ -21,7 +21,7 @@ After these came to write out among those roses growing. Nor I see as far out th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Wake up somewhere near here.
 

@@ -23,7 +23,7 @@ Mine is very little cakes as hard as herself still it **sat** for croqueting one
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Lastly she left her chin into it appeared
 

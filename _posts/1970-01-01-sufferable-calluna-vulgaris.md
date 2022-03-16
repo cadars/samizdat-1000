@@ -21,7 +21,7 @@ Only mustard isn't usual you my elbow. Nobody seems to remain where she spread o
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Luckily for him as solemn as follows The twinkling
 

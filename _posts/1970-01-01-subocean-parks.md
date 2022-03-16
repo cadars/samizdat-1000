@@ -22,7 +22,7 @@ Five who always six o'clock in rather sleepy voice in some of Canterbury found i
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pennyworth only walk long and this morning.
 

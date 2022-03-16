@@ -22,7 +22,7 @@ Advice from which case said there's any said The Hatter's remark. catch a Little
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### UNimportant of repeating his voice until it turned
 

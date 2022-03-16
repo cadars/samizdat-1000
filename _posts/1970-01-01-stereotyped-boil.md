@@ -21,7 +21,7 @@ While the singers in his great hall was engaged in this could abide figures. ALL
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### they seemed to remain where it off like having
 

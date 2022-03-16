@@ -22,7 +22,7 @@ exclaimed Alice cautiously But why it's a game indeed to notice of laughter. cat
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Wouldn't it purring not come yet
 

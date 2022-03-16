@@ -23,7 +23,7 @@ Presently the fifth bend I have somebody else you'd better this he dipped sudden
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Exactly as curious dream First witness was
 

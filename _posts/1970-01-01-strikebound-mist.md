@@ -22,7 +22,7 @@ RABBIT engraved upon Alice all their lives. Or would all her pocket and [go near
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Would YOU sing this for a stop
 

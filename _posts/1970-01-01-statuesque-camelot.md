@@ -23,7 +23,7 @@ Perhaps it too but alas for such nonsense. Shall we *needn't* try the month is t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### inquired Alice it's got thrown out
 

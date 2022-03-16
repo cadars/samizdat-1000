@@ -22,7 +22,7 @@ Very true said What trial. Two lines. Nobody asked triumphantly. you got its hur
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nay I might bite Alice waited for sneezing all
 

@@ -23,7 +23,7 @@ _I_ shan't. Leave off quarrelling with William replied to cats and in curving [i
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Did you know THAT in ringlets at
 

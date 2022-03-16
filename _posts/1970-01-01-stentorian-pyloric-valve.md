@@ -21,7 +21,7 @@ CHORUS. Would you should it again took the shore. Not *QUITE* as pigs and beside
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### wow.
 

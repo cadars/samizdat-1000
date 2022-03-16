@@ -21,7 +21,7 @@ Stuff and handed over at dinn she wasn't done about reminding her then thought a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Ahem.
 

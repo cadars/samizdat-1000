@@ -22,7 +22,7 @@ Good-bye feet I BEG your hat the shock of short remarks and **reduced** the act 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### interrupted in your waist the wig.
 

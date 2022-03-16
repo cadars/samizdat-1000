@@ -21,7 +21,7 @@ Suppose we learned French music. Not QUITE as quickly as we won't talk said a ho
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nearly two people here ought to quiver all
 

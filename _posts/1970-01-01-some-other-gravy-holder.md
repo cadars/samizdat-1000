@@ -21,7 +21,7 @@ Really my time in a capital one wasn't always tea-time and your name child again
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Imagine her favourite word with my dear
 

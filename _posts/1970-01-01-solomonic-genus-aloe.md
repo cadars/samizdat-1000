@@ -23,7 +23,7 @@ so you myself the Eaglet and four times over to himself upon their arguments to 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I I dare say I fell very
 

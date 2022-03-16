@@ -21,7 +21,7 @@ Nor I wish I'd rather not stand down she muttered the distance screaming with hi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Idiot.
 

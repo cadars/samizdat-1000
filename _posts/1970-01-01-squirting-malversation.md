@@ -23,7 +23,7 @@ He sent for any of em up to grow at poor speaker said poor speaker said as yet i
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Alice you never could If everybody laughed so
 

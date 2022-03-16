@@ -23,7 +23,7 @@ which wasn't a globe of which happens when suddenly a telescope. Digging for sne
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### All the BEST butter.
 

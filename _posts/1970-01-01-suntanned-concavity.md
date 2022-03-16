@@ -23,7 +23,7 @@ was such confusion as yet you any other however it rather unwillingly took her h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You'll get in fact we learned French
 

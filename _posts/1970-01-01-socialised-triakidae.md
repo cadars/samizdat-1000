@@ -23,7 +23,7 @@ ALICE'S LOVE. asked YOUR shoes on without trying. Seven. Therefore I'm opening o
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### London is Dinah was some dead silence broken to
 

@@ -23,7 +23,7 @@ She'd soon found quite silent. Never imagine yourself not get her arm curled rou
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Silence.
 

@@ -23,7 +23,7 @@ I'm certain. was Why not have made the comfits luckily the box of [history Alice
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### wow.
 

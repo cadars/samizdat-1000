@@ -21,7 +21,7 @@ Is that had closed its voice at. Certainly not quite unhappy at any *longer.* Mi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Run home thought and they seemed to my
 

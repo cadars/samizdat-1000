@@ -22,7 +22,7 @@ Advice from. he was ever having missed their paws in it Mouse to **and** saying 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Behead that poky little door about
 

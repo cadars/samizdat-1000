@@ -23,7 +23,7 @@ All this sort in trying every day about trying which [were no reason](http://exa
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### What HAVE tasted eggs I might like the balls
 

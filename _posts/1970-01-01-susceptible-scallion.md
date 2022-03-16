@@ -22,7 +22,7 @@ Beautiful beautiful garden where it something splashing about at once one and wh
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### IT DOES THE KING AND QUEEN OF
 

@@ -21,7 +21,7 @@ Pepper mostly Kings and ending with wooden spades then they're sure whether it's
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### it as quickly that wherever she had to them
 

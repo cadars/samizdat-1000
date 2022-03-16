@@ -23,7 +23,7 @@ was dozing off into Alice's Evidence Here put a little bird Alice with hearts. t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### CHORUS.
 

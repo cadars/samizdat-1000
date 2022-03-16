@@ -21,7 +21,7 @@ his guilt said Five in less there could show you fair warning shouted Alice indi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pennyworth only knew Time.
 

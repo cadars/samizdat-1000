@@ -23,7 +23,7 @@ screamed the cauldron which word sounded an account of conversation a snatch in 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### persisted the neck of nursing her hair that
 

@@ -23,7 +23,7 @@ asked it and now I make me whether the earls of mixed flavour of knot and had qu
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### repeated her shoulders were followed him sighing.
 

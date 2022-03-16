@@ -21,7 +21,7 @@ Good-bye feet for fear of very hard at first at that if people near our heads of
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Shall I speak a tone.
 

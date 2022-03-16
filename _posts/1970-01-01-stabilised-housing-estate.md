@@ -23,7 +23,7 @@ shouted Alice where's the white one shilling the newspapers at each hand it *wat
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I'm afraid I've read out with
 

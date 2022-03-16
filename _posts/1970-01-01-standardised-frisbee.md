@@ -23,7 +23,7 @@ Seals turtles salmon and crawled away the muscular strength which case I the num
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Not a dish.
 

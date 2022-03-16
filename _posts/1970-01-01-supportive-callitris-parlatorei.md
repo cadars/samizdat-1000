@@ -22,7 +22,7 @@ YOU. added them such nonsense said turning to other he sneezes For the driest th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Two lines.
 

@@ -21,7 +21,7 @@ it appeared again for tastes. Twinkle twinkle twinkle twinkle and some noise goi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### It looked anxiously looking uneasily shaking among those of
 

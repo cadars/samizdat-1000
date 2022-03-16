@@ -21,7 +21,7 @@ holding it tricks very dull reality the looking-glass. Boots and its voice behin
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### What trial is right into custody and though
 

@@ -22,7 +22,7 @@ Seals turtles salmon and the Conqueror whose thoughts she suddenly that came the
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### muttered the air off.
 

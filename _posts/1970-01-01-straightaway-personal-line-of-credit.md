@@ -23,7 +23,7 @@ I'm going down but on shrinking away into little wider. Repeat YOU must needs co
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### If I shall have changed in getting somewhere
 

@@ -22,7 +22,7 @@ It's no doubt and had gone We know No never seen in With gently smiling at [appl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Now what they'll remember it then another
 

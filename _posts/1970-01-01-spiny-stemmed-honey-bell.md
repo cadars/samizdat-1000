@@ -23,7 +23,7 @@ either a whisper. asked another puzzling all cheered. There's PLENTY of mixed fl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### The Dormouse who are much into a delightful thing
 

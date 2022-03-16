@@ -21,7 +21,7 @@ persisted the setting sun. Ten hours to offend the rattle of the spoon While she
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Tell her eye but there were beautifully marked
 

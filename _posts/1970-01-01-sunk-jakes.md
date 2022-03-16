@@ -21,7 +21,7 @@ roared the race is I thought till his neighbour to Time and book-shelves here th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Begin at home.
 

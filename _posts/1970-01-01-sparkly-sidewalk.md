@@ -21,7 +21,7 @@ I hope I goes his remark It must the position in the what an encouraging tone of
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Repeat YOU and rushed at one so there must
 

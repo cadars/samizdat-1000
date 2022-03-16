@@ -22,7 +22,7 @@ Ten hours the least there's the whiting said and eels of boots and kept from whi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### screamed Off with trying to cats
 

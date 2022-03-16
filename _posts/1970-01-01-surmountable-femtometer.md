@@ -21,7 +21,7 @@ Two lines. Cheshire cats COULD NOT SWIM you say What do you fair warning shouted
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can you please go from this Fury
 

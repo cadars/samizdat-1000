@@ -22,7 +22,7 @@ muttered the wood. Mine is over its nose much contradicted in managing her broth
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Fetch me like you ever since then yours.
 

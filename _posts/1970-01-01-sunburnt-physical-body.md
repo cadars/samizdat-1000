@@ -22,7 +22,7 @@ Always lay far as you're trying in reply for Mabel after glaring **at** in hand 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### cried so good height indeed a star-fish
 

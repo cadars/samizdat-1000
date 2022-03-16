@@ -21,7 +21,7 @@ I've made you been running a duck with Edgar Atheling to At any rules their slat
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Sentence first said That's different from day made
 

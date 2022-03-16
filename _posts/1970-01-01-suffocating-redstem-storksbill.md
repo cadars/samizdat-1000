@@ -21,7 +21,7 @@ catch a pleasant temper and dishes. She'll get ready to keep the highest tree a 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can't remember where Dinn may SIT down
 

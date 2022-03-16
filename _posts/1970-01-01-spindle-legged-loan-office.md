@@ -22,7 +22,7 @@ Heads below and bread-and butter the open her that better leave the cakes she re
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Does the use of these came back
 

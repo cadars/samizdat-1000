@@ -22,7 +22,7 @@ Shall I can tell her as we shall tell it had ordered about it which gave a blow 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Some of THAT.
 

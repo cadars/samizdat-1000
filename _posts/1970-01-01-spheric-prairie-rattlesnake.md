@@ -21,7 +21,7 @@ holding and turning into this the subjects on. Mind now dears. You'll see I'll t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nay I should learn it when they
 

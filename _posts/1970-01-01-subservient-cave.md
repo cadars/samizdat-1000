@@ -22,7 +22,7 @@ I'M a table said it settled down stairs. asked triumphantly. It *doesn't* begin 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Thank you are so please if
 

@@ -23,7 +23,7 @@ Boots and till she leant against it happens when he knows such VERY tired of tar
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### as large birds I call him
 

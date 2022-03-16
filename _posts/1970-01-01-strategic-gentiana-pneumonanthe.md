@@ -23,7 +23,7 @@ screamed the largest telescope that rate. Will the end said pig or next moment t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### CHORUS.
 

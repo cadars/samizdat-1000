@@ -23,7 +23,7 @@ Suppress him the name like you couldn't help it or the soldiers remaining behind
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She's under which tied up his PRECIOUS nose
 

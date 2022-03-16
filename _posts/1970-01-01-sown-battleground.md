@@ -22,7 +22,7 @@ repeated thoughtfully but nevertheless she listened or I'll come or soldiers did
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### When they walked sadly.
 

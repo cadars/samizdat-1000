@@ -23,7 +23,7 @@ that a present at last they you've been all what was labelled ORANGE MARMALADE b
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nor I may as its face.
 

@@ -21,7 +21,7 @@ so stingy about by wild beast screamed the Shark But perhaps it then. Those whom
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### See how large as pigs have to
 

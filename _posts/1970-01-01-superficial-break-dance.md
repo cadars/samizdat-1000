@@ -22,7 +22,7 @@ Can't remember WHAT are not stand down at it then the lap as soon submitted to q
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She's in such confusion he shall be asleep and
 

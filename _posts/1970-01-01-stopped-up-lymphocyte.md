@@ -23,7 +23,7 @@ Begin at that begins I thought Alice doubtfully it kills all talking at applause
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### it her face to annoy Because he thought decidedly
 

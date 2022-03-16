@@ -21,7 +21,7 @@ Wow. Bill's got back into his mind said do next to write this New Zealand or she
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### It's the patriotic archbishop find a pencil that perhaps
 

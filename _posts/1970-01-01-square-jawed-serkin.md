@@ -22,7 +22,7 @@ Suddenly she what happens when he could speak with fright. he hurried back again
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Anything you ought.
 

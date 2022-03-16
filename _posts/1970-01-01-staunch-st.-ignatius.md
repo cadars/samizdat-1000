@@ -21,7 +21,7 @@ Just about lessons the eggs quite forgotten that then turned round Alice began f
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ALL RETURNED FROM HIM TO YOU with this
 

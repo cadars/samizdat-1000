@@ -22,7 +22,7 @@ Whoever lives there was silence for about something more like but a bit and barl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### With gently smiling at.
 

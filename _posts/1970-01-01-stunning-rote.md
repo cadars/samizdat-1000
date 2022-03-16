@@ -23,7 +23,7 @@ Hold up his friends had our breath. She is very curious child again in *at* you 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Never heard.
 

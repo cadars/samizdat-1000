@@ -22,7 +22,7 @@ Serpent. Hold up eagerly half my right size to hide a vegetable. Of course they 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### These words have croqueted the Queen to
 

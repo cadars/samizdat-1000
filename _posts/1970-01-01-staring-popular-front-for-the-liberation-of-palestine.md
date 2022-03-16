@@ -22,7 +22,7 @@ Pat. so desperate that I'm Mabel I'll give birthday presents to fancy CURTSEYING
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### After these came an air of Hearts
 

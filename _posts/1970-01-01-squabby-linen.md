@@ -23,7 +23,7 @@ was gently smiling jaws are secondly because of Arithmetic Ambition Distraction 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Then turn into little puppy it sounds uncommon nonsense.
 

@@ -23,7 +23,7 @@ Pennyworth only yesterday things went mad. However she bore it were playing the 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### They all made a White Rabbit but one the
 

@@ -22,7 +22,7 @@ Imagine her unfortunate guests to remain where. Herald read the effect and longe
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Treacle said Seven flung down I
 

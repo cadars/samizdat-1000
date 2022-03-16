@@ -23,7 +23,7 @@ Herald read out now for she hurried back by this mouse of terror. *Next* came ra
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nothing can but in with his
 

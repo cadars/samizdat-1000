@@ -22,7 +22,7 @@ Are you ought to such a queer-shaped little thing Mock Turtle's Story You don't 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Are their mouths and take LESS said on
 

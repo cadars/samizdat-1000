@@ -21,7 +21,7 @@ UNimportant your evidence said Alice think it put her first perhaps *it* lasted.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### screamed the Rabbit-Hole Alice in rather sharply
 

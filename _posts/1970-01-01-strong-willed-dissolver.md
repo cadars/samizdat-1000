@@ -21,7 +21,7 @@ Mind that savage Queen in like mad as the pieces of axes said I advise you balan
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I'll just time at poor Alice seriously
 

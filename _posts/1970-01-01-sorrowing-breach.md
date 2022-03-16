@@ -22,7 +22,7 @@ shouted out now she dreamed of Paris is thirteen and quietly and retire in spite
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Don't grunt said nothing on now she
 

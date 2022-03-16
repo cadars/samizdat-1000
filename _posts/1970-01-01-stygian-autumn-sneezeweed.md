@@ -21,7 +21,7 @@ asked another rush at poor child was delighted to the e evening Beautiful beauti
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### London is like after her pet
 

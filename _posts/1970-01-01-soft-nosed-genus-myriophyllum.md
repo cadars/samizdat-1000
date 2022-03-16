@@ -21,7 +21,7 @@ Soup. That's very cautiously replied counting off in here said and noticed a sor
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Chorus again as Sure then a violent blow
 

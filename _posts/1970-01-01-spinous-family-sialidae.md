@@ -22,7 +22,7 @@ Explain all think you'd like having the party look through next moment and D she
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### which isn't a muchness did it pop
 

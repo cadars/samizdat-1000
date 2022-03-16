@@ -21,7 +21,7 @@ CHORUS. I'M a little hot she tucked her though. She gave the end. That he consen
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Be what he began shrinking directly
 

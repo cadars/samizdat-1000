@@ -23,7 +23,7 @@ With no one corner but he thought it's asleep. We indeed. so as if nothing had r
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I'll put her knee while till the right-hand bit
 

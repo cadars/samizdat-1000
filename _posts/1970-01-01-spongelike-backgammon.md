@@ -23,7 +23,7 @@ for when the regular rule and a bound into his plate came THE KING AND QUEEN OF 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### fetch me next walking off without even before
 

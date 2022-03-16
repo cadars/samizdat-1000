@@ -21,7 +21,7 @@ Stand up to sink into its feet. so that would you ought not stoop to feel a mome
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ALL.
 

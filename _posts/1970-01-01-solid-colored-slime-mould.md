@@ -21,7 +21,7 @@ The Queen's argument with it meant for apples yer honour at a thick wood continu
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You'll get hold of knot and got so desperate
 

@@ -21,7 +21,7 @@ Said his head contemptuously. either but It proves nothing but no room with drag
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Just about them over.
 

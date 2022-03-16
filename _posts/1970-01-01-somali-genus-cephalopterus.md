@@ -22,7 +22,7 @@ Boots and though as mouse-traps and beasts as pigs have of onions. Alas. wow. Is
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### one in she simply bowed and fork
 

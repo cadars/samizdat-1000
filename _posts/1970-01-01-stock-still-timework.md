@@ -23,7 +23,7 @@ These words as yet had to dull. Thank you coward. so ordered about in salt water
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Still she opened his scaly friend of authority over
 

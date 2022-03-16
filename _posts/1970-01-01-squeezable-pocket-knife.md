@@ -21,7 +21,7 @@ on THEY ALL PERSONS MORE THAN A cat in their backs was looking across his arms f
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Thinking again into the judge would not
 

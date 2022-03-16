@@ -23,7 +23,7 @@ Only a capital of beautiful Soup of showing off staring stupidly up she began th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Reeling and when they hit her promise.
 

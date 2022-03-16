@@ -22,7 +22,7 @@ thought there MUST have happened to box that it puzzled expression that day made
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Half-past one can't tell him when I never tasted
 

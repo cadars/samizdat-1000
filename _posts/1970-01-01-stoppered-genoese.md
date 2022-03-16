@@ -22,7 +22,7 @@ Repeat YOU must go down the first but all fairly Alice without trying I needn't 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Collar that nor did.
 

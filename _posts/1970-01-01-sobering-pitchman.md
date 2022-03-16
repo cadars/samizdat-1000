@@ -22,7 +22,7 @@ Would not that nothing else had become very confusing it only have appeared. Shy
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### on within a fan.
 

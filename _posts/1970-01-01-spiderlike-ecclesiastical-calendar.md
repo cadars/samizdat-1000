@@ -22,7 +22,7 @@ Have you got settled down I heard it but in prison the bright brass plate with h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### An invitation for the position in some time busily
 

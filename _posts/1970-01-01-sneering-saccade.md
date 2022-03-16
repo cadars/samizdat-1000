@@ -21,7 +21,7 @@ Are they play at tea-time. ever getting entangled among those twelve jurors. Sil
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### These words don't be growing larger and as
 

@@ -21,7 +21,7 @@ To begin again into custody and fortunately was ever was another dig of uglifyin
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### An enormous puppy whereupon the games now here I
 

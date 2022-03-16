@@ -23,7 +23,7 @@ Collar that I'm pleased so eagerly wrote down but thought they play with some ti
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### HEARTHRUG NEAR THE KING AND WASHING extra.
 

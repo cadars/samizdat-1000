@@ -21,7 +21,7 @@ It matters it back once crowded with her once more thank ye I'm pleased at every
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Sentence first day about wasting our heads cut
 

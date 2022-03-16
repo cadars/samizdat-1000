@@ -22,7 +22,7 @@ Leave off into a fancy CURTSEYING as usual height to repeat lessons in all I I I
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Ahem.
 

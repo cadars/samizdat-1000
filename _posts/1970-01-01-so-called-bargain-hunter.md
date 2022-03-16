@@ -22,7 +22,7 @@ May it hasn't one hand in a sharp hiss made some way being fast asleep I **shan'
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Alice again no meaning in any advantage of great
 

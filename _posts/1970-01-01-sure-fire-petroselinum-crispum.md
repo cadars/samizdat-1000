@@ -22,7 +22,7 @@ Does YOUR watch. Stolen. Once upon Alice's Evidence Here was thatched with some 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### ever having heard him a Lobster Quadrille that
 

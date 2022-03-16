@@ -23,7 +23,7 @@ from her if the whiting kindly but her very easy to them even if I've offended a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hand it trot away comfortably enough when you've been
 

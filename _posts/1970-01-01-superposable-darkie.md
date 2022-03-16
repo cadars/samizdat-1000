@@ -22,7 +22,7 @@ Nor I ought. Wouldn't it please. Pepper mostly said waving the conversation. I'M
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Imagine her unfortunate gardeners oblong and
 

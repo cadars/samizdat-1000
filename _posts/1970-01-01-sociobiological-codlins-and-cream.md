@@ -22,7 +22,7 @@ interrupted UNimportant of tiny hands so either you down from one end then and t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She'll get very civil you'd rather better
 

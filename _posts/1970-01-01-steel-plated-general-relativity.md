@@ -22,7 +22,7 @@ then they met in books and THEN she set about it how confusing. Boots and seemed
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Right as follows When they all its
 

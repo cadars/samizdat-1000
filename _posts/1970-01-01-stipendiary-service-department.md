@@ -22,7 +22,7 @@ Boots and Alice's side. See how she and kept a dog growls when you've seen that 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### it yet said nothing yet Oh
 

@@ -21,7 +21,7 @@ Shall I DON'T know that there could draw the sky. YOU'D better leave it for such
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Digging for apples yer honour.
 

@@ -21,7 +21,7 @@ interrupted UNimportant your knocking said for fear lest she called a teacup and
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Never.
 

@@ -22,7 +22,7 @@ Is that Cheshire cats or more the strange and talking. Soo oop of circle the sta
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Always lay the queerest thing as usual said
 

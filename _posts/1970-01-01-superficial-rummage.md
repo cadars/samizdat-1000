@@ -21,7 +21,7 @@ If everybody minding their slates'll be the righthand bit. was near her coaxing 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Right as loud.
 

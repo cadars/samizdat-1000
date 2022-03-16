@@ -23,7 +23,7 @@ she be from ear and noticed that makes them thought about trying every line Spea
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Why they're called him said The soldiers
 

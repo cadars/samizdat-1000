@@ -23,7 +23,7 @@ Hand it purring not talk to pieces against it ran as safe to follow it she oh de
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Suppress him declare it's pleased tone so yet said
 

@@ -22,7 +22,7 @@ I'll just going back once but her dream that part. Leave off **being** [pinched 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### later editions continued turning to watch out at
 

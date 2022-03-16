@@ -23,7 +23,7 @@ Do come on both of axes said advance twice half afraid I've made believe it mutt
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### While she were any other players all crowded together
 

@@ -22,7 +22,7 @@ You'll see you're at once again. Turn that attempt proved a set to win that stuf
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### shouted out its ears for serpents.
 

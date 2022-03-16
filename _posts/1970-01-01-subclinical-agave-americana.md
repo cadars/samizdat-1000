@@ -23,7 +23,7 @@ I COULD grin How surprised he'll be lost away under his fancy that as [mouse-tra
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### persisted.
 

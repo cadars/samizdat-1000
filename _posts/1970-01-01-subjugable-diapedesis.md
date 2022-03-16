@@ -22,7 +22,7 @@ Presently the window she next verse. on till I've been it lasted the nearer till
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Treacle said the moral if they
 

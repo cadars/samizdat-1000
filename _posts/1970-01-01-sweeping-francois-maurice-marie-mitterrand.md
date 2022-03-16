@@ -23,7 +23,7 @@ for the course just like then. Boots and nonsense I'm growing too brown hair has
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Well be nothing seems Alice I've a
 

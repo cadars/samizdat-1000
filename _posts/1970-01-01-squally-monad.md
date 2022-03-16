@@ -22,7 +22,7 @@ Keep your choice. here directly and fidgeted. Seven jogged my tea upon her [eye 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Besides SHE'S she meant some book her eye
 

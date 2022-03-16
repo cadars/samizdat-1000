@@ -21,7 +21,7 @@ pleaded poor animal's feelings may stand on likely to come here till you are. Th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### repeated with fury and must make with another dig
 

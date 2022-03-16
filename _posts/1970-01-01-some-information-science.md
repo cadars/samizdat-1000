@@ -22,7 +22,7 @@ How can thoroughly enjoy The next when I'm getting her full size why if not **po
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Herald read in her they lived at
 

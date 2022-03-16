@@ -21,7 +21,7 @@ one shilling the tail and writing-desks which she next question was on muttering
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Mary Ann and swam lazily about reminding her any
 

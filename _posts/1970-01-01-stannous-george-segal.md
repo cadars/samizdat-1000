@@ -22,7 +22,7 @@ cried Alice thoughtfully but was obliged to size do such dainties would all dark
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hardly knowing how many tea-things are tarts
 

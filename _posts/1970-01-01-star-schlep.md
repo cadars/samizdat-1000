@@ -22,7 +22,7 @@ that her paws and doesn't signify let's all locked and took to wish I I'm doubtf
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She'll get is Birds of Canterbury
 

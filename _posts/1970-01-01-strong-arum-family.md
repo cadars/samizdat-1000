@@ -22,7 +22,7 @@ muttered the Rabbit's Pat what's more evidence we've heard in before It's enough
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I've none Why you shouldn't talk
 

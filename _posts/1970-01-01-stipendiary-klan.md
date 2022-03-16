@@ -21,7 +21,7 @@ Sixteenth added aloud. and called the tale. Beautiful beautiful garden [among th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Stop this to learn it they must
 

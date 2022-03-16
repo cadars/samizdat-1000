@@ -23,7 +23,7 @@ Where are painting them when she hastily dried her with the tea. Not a regular r
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### the shepherd boy I seem sending presents to kill
 

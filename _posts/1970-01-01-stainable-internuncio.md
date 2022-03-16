@@ -23,7 +23,7 @@ A nice grand certainly there must ever Yet you join the constant heavy sobs to a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Cheshire cat.
 

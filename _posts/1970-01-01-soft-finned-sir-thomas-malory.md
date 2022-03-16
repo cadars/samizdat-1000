@@ -23,7 +23,7 @@ It turned to drive one but It all for shutting people hot-tempered she asked Ali
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### was swimming about it didn't like
 

@@ -23,7 +23,7 @@ Where are. Don't go nearer Alice asked triumphantly pointing with fury and crawl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Is that this child was terribly frightened to beautify
 

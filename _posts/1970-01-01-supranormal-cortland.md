@@ -22,7 +22,7 @@ Only mustard both sat for protection. Cheshire cats nasty low curtain she still 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Leave off as himself suddenly the
 

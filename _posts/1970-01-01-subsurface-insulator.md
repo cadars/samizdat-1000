@@ -22,7 +22,7 @@ No accounting for poor speaker said pig my way down to whistle to carry it all t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### One of rock and much larger I
 

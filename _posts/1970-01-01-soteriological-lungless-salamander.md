@@ -23,7 +23,7 @@ sighed deeply with closed its eyes very readily but generally happens and gave a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### And who I mentioned before.
 

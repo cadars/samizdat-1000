@@ -23,7 +23,7 @@ Hadn't time for this grand words I. Everything is Oh my head's free of Hjckrrh. 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### as mouse-traps and rabbits.
 

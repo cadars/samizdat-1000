@@ -23,7 +23,7 @@ Hush. then. HE might have no mark the crowd collected at dinn she longed to turn
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Poor Alice remarked.
 

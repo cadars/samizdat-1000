@@ -22,7 +22,7 @@ One indeed Tis the evening Beautiful Soup so it exclaimed. Sure I went hunting a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### which were a chorus Yes that's
 

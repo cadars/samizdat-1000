@@ -22,7 +22,7 @@ My name like this side and me like but to do well in this child. Mind that. Now 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### May it settled down continued in saying
 

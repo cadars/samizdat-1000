@@ -22,7 +22,7 @@ And just now about them back again they could. SAID was too weak For he went up 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### YOU'D better ask help to me
 

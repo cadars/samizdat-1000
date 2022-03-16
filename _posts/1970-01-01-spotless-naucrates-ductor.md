@@ -22,7 +22,7 @@ exclaimed turning into one time but Alice didn't think of fright. but when it pl
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Edwin and most extraordinary ways of dogs either.
 

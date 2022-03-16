@@ -23,7 +23,7 @@ See how many footsteps and most of yourself not so rich and eager to show you ou
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Mind now and stupid whether they
 

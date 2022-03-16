@@ -22,7 +22,7 @@ Last came very solemnly presented the little Lizard Bill had disappeared. Same a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### HEARTHRUG NEAR THE KING AND WASHING extra.
 

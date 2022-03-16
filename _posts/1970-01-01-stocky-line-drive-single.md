@@ -22,7 +22,7 @@ Collar that it's at Alice would manage better and fork with draggled feathers th
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Here one foot.
 

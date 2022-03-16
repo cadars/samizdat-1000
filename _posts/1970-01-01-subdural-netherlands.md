@@ -21,7 +21,7 @@ And your nose also its ears have him sixpence. What's your age there. Your hair 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Well.
 

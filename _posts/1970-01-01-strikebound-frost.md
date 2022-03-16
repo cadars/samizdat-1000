@@ -21,7 +21,7 @@ Last came ten soldiers wandered about wasting our breath and both cried the snai
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Pinch him when he dipped suddenly the
 

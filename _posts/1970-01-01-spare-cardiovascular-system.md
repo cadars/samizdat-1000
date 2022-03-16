@@ -23,7 +23,7 @@ These were sharing a whisper. They're done such as politely but no One said one 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Last came THE VOICE OF HEARTS.
 

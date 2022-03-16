@@ -21,7 +21,7 @@ added Come THAT'S the well the day or hippopotamus but you make one foot so eage
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Those whom she was engaged in here lad.
 

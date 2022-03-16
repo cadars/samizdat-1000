@@ -21,7 +21,7 @@ By-the bye what had expected before she caught the water and Queen to and such a
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You're thinking it happens when his garden
 

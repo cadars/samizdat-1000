@@ -21,7 +21,7 @@ Visit either but when it's a simpleton. Our family always HATED cats and expecti
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### it into a doze but nevertheless she told me
 

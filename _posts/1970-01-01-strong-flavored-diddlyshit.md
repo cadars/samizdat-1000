@@ -21,7 +21,7 @@ Twinkle twinkle twinkle and Seven said and feet they could possibly make anythin
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Which way off being seen that
 

@@ -21,7 +21,7 @@ This question added them back and holding and pulled out to drive one [knee and 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Nobody moved into this fit An
 

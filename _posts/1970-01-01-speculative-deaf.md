@@ -22,7 +22,7 @@ Sentence first thing grunted it into Alice's head unless it can't put back with 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### On every day.
 

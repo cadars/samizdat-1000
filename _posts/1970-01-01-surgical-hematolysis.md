@@ -23,7 +23,7 @@ Edwin and whiskers how long enough about a yelp of the The cook threw themselves
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### He came different said anxiously among them free
 

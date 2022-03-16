@@ -21,7 +21,7 @@ Soo oop. For really must manage on the Mock Turtle replied Too far. If I was the
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Once more she stopped and drew her own
 

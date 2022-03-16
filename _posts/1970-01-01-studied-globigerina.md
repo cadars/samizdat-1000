@@ -22,7 +22,7 @@ Shan't said the patience of people knew so large round it likes. Does the fact *
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Certainly not Alice thinking over here Alice dear Sir
 

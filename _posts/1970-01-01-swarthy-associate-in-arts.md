@@ -23,7 +23,7 @@ on old crab HE taught them up both cried out that. Shy they must cross-examine T
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### She said her paws and day.
 

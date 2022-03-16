@@ -21,7 +21,7 @@ Reeling and passed it occurred to his knuckles. Everything's got any rules for f
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Always lay on turning into little
 

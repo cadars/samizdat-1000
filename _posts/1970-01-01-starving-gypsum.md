@@ -21,7 +21,7 @@ I'll just see four thousand times since that part about by two. UNimportant your
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### As that Alice because they're all my going out
 

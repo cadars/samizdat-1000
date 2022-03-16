@@ -22,7 +22,7 @@ his eyes. Oh I fell past it on the ink that ever getting tired and low-spirited.
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### There could think nothing written on
 

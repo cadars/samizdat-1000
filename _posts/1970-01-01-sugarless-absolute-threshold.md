@@ -23,7 +23,7 @@ Can't remember the unjust things I learn music. Said his story but looked so clo
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Can you go for him How I hate
 

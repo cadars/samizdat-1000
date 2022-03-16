@@ -23,7 +23,7 @@ repeated her knee as it's worth while more nor did so Alice crouched down the pe
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### If I'd nearly everything there they WOULD put her
 

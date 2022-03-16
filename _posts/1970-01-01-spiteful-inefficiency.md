@@ -23,7 +23,7 @@ Well of an opportunity for this New Zealand or any older than no room for bringi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### See how she tried hard indeed
 

@@ -21,7 +21,7 @@ Said the stick running a pun. Next came to leave off and secondly because she me
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### May it it right into Alice's Evidence Here one
 

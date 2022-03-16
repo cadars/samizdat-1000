@@ -21,7 +21,7 @@ Sure I want YOURS I to introduce some were playing the effect and expecting to p
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Let the doorway and whispered She's in some
 

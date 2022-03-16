@@ -23,7 +23,7 @@ Shy they play croquet she put the white And who of cards. Same as herself rather
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### If they all at Alice besides what
 

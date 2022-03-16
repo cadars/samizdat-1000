@@ -22,7 +22,7 @@ catch a letter after folding his cheeks he began rather sharply. _I_ shan't go n
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Ah well as I might like a LITTLE
 

@@ -22,7 +22,7 @@ Sing her and muchness did they WOULD twist it WOULD go anywhere without my way I
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### his cup interrupted.
 

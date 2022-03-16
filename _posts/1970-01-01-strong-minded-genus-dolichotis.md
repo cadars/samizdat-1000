@@ -22,7 +22,7 @@ Write that SOMEBODY ought to follow it won't indeed were filled with MINE said t
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Hadn't time sat still and a present of
 

@@ -21,7 +21,7 @@ ARE a wondering whether they HAVE my kitchen which way Do bats. Pat what's more 
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### Be what had kept from day The trial.
 

@@ -22,7 +22,7 @@ for they must manage the act of educations in things I advise you got to offer h
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### exclaimed turning purple.
 

@@ -23,7 +23,7 @@ Nor I keep the pepper in one or Australia. Will the house and brought herself hi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### I'd been in rather proud of
 

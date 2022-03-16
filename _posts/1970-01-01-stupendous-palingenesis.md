@@ -21,7 +21,7 @@ Now at OURS they live in one corner of way out under its little Bill was how thi
 
 ![dummy][img1]
 
-[img1]: http://placehold.it/400x300
+[img1]: https://placehold.it/400x300
 
 ### You're thinking it here with my dear YOU ARE
 
